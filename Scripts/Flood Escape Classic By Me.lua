@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdlanTerchs/Flood-Escape-Classic/main/Flood%20Escape%20Classic.lua"))()

