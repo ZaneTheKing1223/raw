@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/AdlanTerchs/Click-TP/main/README.md'),true))()
